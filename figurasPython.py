@@ -1,6 +1,6 @@
 import turtle
 import math
-
+#carlos 
 
 def rectangulo():
     for i in range (4):
