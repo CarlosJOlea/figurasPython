@@ -52,8 +52,7 @@ def lineapuntead():
         turtle.forward(5)
         turtle.pendown()
 
-
-#cuadradoEnEspiral()
+cuadradoEnEspiral()
 
 #cuadradoTriang()
 
@@ -61,6 +60,6 @@ def lineapuntead():
 
 #cuadrado()
 
-lineapuntead()
-a = int(input("1 = Hombre \n2 = Mujer \n\n"))
+#lineapuntead()
+#a = int(input("1 = Hombre \n2 = Mujer \n\n"))
 
